@@ -4,7 +4,7 @@
     "height": 600,
     "title": "University international student/facuty count per continent (2022)",
     "data": {
-        "url": "../data/uni_ranks_2022.csv"
+        "url": "https://raw.githubusercontent.com/Jason-Marshall-git/FIT3179_week10_homework/main/data/uni_ranks_2022.csv"
     },
     "params": [
         {
